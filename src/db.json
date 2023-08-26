@@ -1,0 +1,83 @@
+{
+    
+    "productos": [
+      {
+        "img": "https://picsum.photos/200/300",
+        "producto": "Pantalla Americana",
+        
+        "categoria": "Dormitorio",
+        "stock": "789",
+        
+        "precio": "5623584",
+        "nota": "nueva",
+        "id": "s40mqfd"
+      },
+      {
+        "img": "https://picsum.photos/200/300",
+        "producto": "Set de estanteria especies",
+        
+        "categoria": "Cocina",
+        "stock": "789",
+        
+        "precio": "5623584",
+        "nota": "nueva",
+        "id": "s40mqefz"
+      },
+      {
+        "img": "https://picsum.photos/200/300",
+        "producto": "Set de articulos Tocador",
+        
+        "categoria": "Baño",
+        "stock": "789",
+        
+        "precio": "5623584",
+        "nota": "nueva",
+        "id": "s4450mqfz"
+      },
+      {
+        "img": "https://picsum.photos/200/300",
+        "producto": "Alfombra ",
+        
+        "categoria": "Dormitorio",
+        "stock": "789",
+        
+        "precio": "5623584",
+        "nota": "nueva",
+        "id": "s40mtqfz"
+      },
+      {
+        "img": "https://picsum.photos/200/300",
+        "producto": "Mesa Madera para 10 personas",
+        
+        "categoria": "Comedor",
+        "stock": "789",
+        
+        "precio": "5623584",
+        "nota": "nueva",
+        "id": "s40kmqfz"
+      },
+      {
+        "img": "https://picsum.photos/200/300",
+        "producto": "Florero CaCao",
+        
+        "categoria": "pequeños objetos",
+        "stock": "789",
+        
+        "precio": "5623584",
+        "nota": "nueva",
+        "id": "s40mqjfz"
+      },
+      {
+        "img": "https://picsum.photos/200/300",
+        "producto": "Sillon 3 Cuerpos",
+        
+        "categoria": "Living",
+        "stock": "789",
+        
+        "precio": "5623584",
+        "nota": "nueva",
+        "id": "s40gwwmqfz"
+      }
+      
+    ]
+  }
